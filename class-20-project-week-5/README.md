@@ -63,12 +63,14 @@ To successfully submit your project, complete the processes in order, for GitHub
 
 1. Make sure your group is formed on Canvas. To do this, open the course on Canvas, select the People link in the left sidebar, and then the Groups tab at the top. Finally, select the Join link to the right of the appropriate project group. Everyone in your group should complete this process prior to the submission of the assignment.
 
-1. There are two Canvas assignments that cover Projects, one for just you and one for the whole team. Only **one** team member needs to submit this `Final Project - Group Submission` assignment. However, **each team member will need to individually submit** the `Final Project - Individual Submission` assignment on Canvas.  
+ <img src="canvas.png" />
+
+2. There are two Canvas assignments that cover Projects, one for just you and one for the whole team. Only **one** team member needs to submit this `Final Project - Group Submission` assignment. However, **each team member will need to individually submit** the `Final Project - Individual Submission` assignment on Canvas.  
  - Group Submission  
-        1. Complete the Google Form on the Canvas assignment page.  
-        2. Include links to your:
-            1. GitHub Pull Request
-            2. Heroku deployed project in the text field the Canvas assignment provides.
+    1. Complete the Google Form on the Canvas assignment page.  
+    2. Include links to your:
+      * GitHub Pull Request
+      * Heroku deployed project in the text field the Canvas assignment provides.
 
  - Individual Submission  
     1. Complete the Canvas Assignment `Final Project - Individual Submission`.
