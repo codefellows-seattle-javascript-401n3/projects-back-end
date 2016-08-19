@@ -1,12 +1,12 @@
 <a id="project"></a>
-# Class 15 - Project Week Prep
+# Class 15 - Project Week Prep Day
 ## Final Project Rules and Process
 
 For your final project, your task is to work with a team to build a web site that simulates a real-world product, service, or game.
 
 Here are some repos of past student projects that you may explore to get a sense of what past teams have produced:
 
-* **INSTRUCTOR INSERT LINKS HERE**
+* <h2>**INSTRUCTOR INSERT LINKS HERE**</h2>
 * **INSTRUCTOR INSERT LINKS HERE**
 * **INSTRUCTOR INSERT LINKS HERE**
 * **INSTRUCTOR INSERT LINKS HERE**

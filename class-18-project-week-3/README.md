@@ -1,8 +1,8 @@
 # Class 18 -  Project Week: Milestone 3
-## Reaching MVP
+## Reaching MVP Day
 
-1. Start with a meeting to assess how the last day went, and then plan today accordingly.
+1. As always, start with a daily standup to assess how the last day went, and then plan today accordingly.
 
-2. Your goal today: MVP. You want to have everything working, all of your core features in place, and bugs worked out. That will leave tomorrow for stretch goals and focusing on getting the look and feel dialed in to exactly what you want.
+2. Your goal today: MVP. You want to have everything working, all of your core features in place, and the bugs worked out. That will leave tomorrow for accomplishing stretch goals and getting the look and feel dialed in.
 
-Keep in mind, that as we get closer to Friday, it's never too soon to start thinking about presentations, and one step I'd encourage getting to at some point today is to test your project on one of the projectors in the classroom spaces. It just makes everything a little different to be viewed that way. We'll share some specific strategies for presentation prep Thursday morning.
+3. It's never too soon to start thinking about your presentation and I'd encourage testing your project on one of the projectors in the classroom spaces. Everything will look just a little different on the projector screen and you should anticipate that prior to delivering your presentation.

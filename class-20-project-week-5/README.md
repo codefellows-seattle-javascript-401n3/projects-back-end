@@ -1,13 +1,11 @@
 # Class 20 -  Project Week: Milestone 5
 ## Presentation Day
 
-* Remember that you are required to attend the 301 presentations starting at 10:30a
+* Your presentation should take approximately **20 minutes**.
 
-* Your presentations should take approximately **20 minutes**. 
+* Have one team member track time and help keep things moving forward.
 
-* Have one team member track time, and help keep things moving forward.
-
-* Expect and be ready to answer questions at the end of your presentation. 
+* Expect and be ready to answer questions at the end of your presentation.
 
 * Have fun!!
 
@@ -15,6 +13,9 @@
 Your grade is based on your individual effort and your project's technical merit.
 * Individual effort is graded based on **links to commits and Pull Requests** that demonstrate your contributions.
 * Technical merit is graded based on the following criteria:
+
+<h2>**INSTRUCTOR REPLACE THIS CRITERIA AS NECESSARY**</h2>
+
  * **Good and proper use of HTML**
    * Clear, readable, and efficient structure
     * Uses semantic markup whenever possible
@@ -73,4 +74,4 @@ To successfully submit your project, complete the processes in order, for GitHub
     1. Complete the Canvas Assignment `Final Project - Individual Submission`.
 
 ## Congratulations!
-Thanks for all your hard work through this course! We can't wait to see where you go with your new wizard powers. :)
+Thanks for all your hard work!
