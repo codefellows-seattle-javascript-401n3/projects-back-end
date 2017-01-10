@@ -6,7 +6,6 @@ For your final project, your task is to work with a team to build an API back-en
 
 Here are some repos of past student projects that you may explore to get a sense of what past teams have produced:
 
-* <h2>**INSTRUCTOR INSERT LINKS HERE**</h2>
 * **INSTRUCTOR INSERT LINKS HERE**
 * **INSTRUCTOR INSERT LINKS HERE**
 * **INSTRUCTOR INSERT LINKS HERE**
@@ -26,8 +25,8 @@ Your team must adhere to the following requirements.
 * Your API must be deployed live on the Internet, using both staging and production deployments through continuous integration and deployment technologies.
 
 
-### Documentation Guidelines
 <a id="documentation"></a>
+### Documentation Guidelines
 * Any badges relating to CI, Test status/coverage, or other integrations.
 * Installation/Getting Started, as applicable to your API.
 * Clearly defined Overview of problem domain.
