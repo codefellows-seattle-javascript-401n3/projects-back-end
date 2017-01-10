@@ -41,9 +41,9 @@ Your team must adhere to the following requirements.
 
 Here's an [awesome README](https://github.com/matiassingers/awesome-readme) which is a curated list of awesome READMEs!
 
-For more information, please see these examples of well documented READMEs:
-* [Atom.io Editor](https://github.com/atom/atom/blob/master/README.md)
-* [ExpressJS](https://github.com/expressjs/express/blob/master/README.md)
+These are a few more examples of past Code Fellows API projects:
+* []()
+* []()
 * [Shooters Log](https://github.com/gsmatth/shooters-log/blob/staging/README.md)
 
 ### Process:
